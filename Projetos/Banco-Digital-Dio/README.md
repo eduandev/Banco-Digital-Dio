@@ -11,7 +11,7 @@ O controle das tarefas desse projeto foram realizadas no github
 
 - :checkered_flag: release
 - :package: novas funcionalidades
-- :up: atualização
 - :snail: correção de bug
+- :up: atualização
 - :checkered_flag: release
  
