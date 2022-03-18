@@ -1,6 +1,6 @@
 # Banco Digital Dio
 
-Projeto em conjunto com o Bootcamp GFT Quality Assurance #1
+Projeto em andamento
 
 
 ## tarefas
