@@ -8,6 +8,5 @@ Segue o modelo Scrum
 
 ### Funcionalidades
 
-As funcionalidades total desse projeto ainda não foram finalizadas.
-Ao final do projeto o usuario vai ter a opção de abrir uma conta (Corrente ou Poupança), bem como sacar, depositar e transferir. 
+As funcionalidades total desse projeto ainda não foram finalizadas, ao final do projeto o usuario vai ter a opção de abrir uma conta (Corrente ou Poupança), bem como sacar, depositar e transferir. 
 
